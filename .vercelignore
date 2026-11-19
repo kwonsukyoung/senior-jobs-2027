@@ -1,0 +1,4 @@
+.bin/
+.git/
+.firebase/
+firebase-debug.log
